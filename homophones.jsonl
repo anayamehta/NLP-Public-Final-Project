@@ -1,0 +1,22 @@
+﻿{"premise":"A small ice cream stand with two people standing near it.","hypothesis":"Two people selling ice cream from a car.","label":2}
+{"premise":"A small ice cream stand with two people standing near it.","hypothesis":"There is an ice cream cart.","label":0}
+{"premise":"A small ice cream stand with two people standing near it.","hypothesis":"The two people are eating vanilla ice cream.","label":1}
+{"premise":"The rose grew in the flower bed.","hypothesis":"The rose was asleep.","label":2}
+{"premise":"The rose grew in the flower bed.","hypothesis":"The flower rose up out of the ground.","label":0}
+{"premise":"The rose grew in the flower bed.","hypothesis":"The rose is red.","label":1}
+{"premise":"There is a bat with the kids in the dark room.","hypothesis":"They are playing baseball.","label":2}
+{"premise":"There is a bat with the kids in the dark room.","hypothesis":"The bat is flying around.","label":1}
+{"premise":"There is a bat with the kids in the dark room. They are scared of the weird animal.","hypothesis":"They are playing baseball.","label":2}
+{"premise":"The fair maiden is in the garden.","hypothesis":"The maiden is beautiful.","label":0}
+{"premise":"The fair maiden is in the garden.","hypothesis":"The maiden is trustworthy.","label":1}
+{"premise":"The fair maiden is in the garden.","hypothesis":"The maiden is deceitful.","label":1}
+{"premise":"A bright light is surrounding the student.","hypothesis":"The student is smart.","label":1}
+{"premise":"A bright light is surrounding the student.","hypothesis":"The room is lit up.","label":0}
+{"premise":"The student is surrounded by bright classmates.","hypothesis":"The classmates are intelligent.","label":0}
+{"premise":"The student is surrounded by bright classmates.","hypothesis":"The classmates are shining.","label":2}
+{"premise":"The band member is wearing a rubber band.","hypothesis":"The band member is a musician.","label":0}
+{"premise":"The band member is wearing a rubber band on his wrist.","hypothesis":"The band is wrapped around his waist.","label":2}
+{"premise":"The band member is wearing a rubber band.","hypothesis":"The band is holding a concert.","label":1}
+{"premise":"The dog barked at the tree.","hypothesis":"The tree barked.","label":2}
+{"premise":"The dog barked at the tree.","hypothesis":"The tree's bark is rough.","label":1}
+{"premise":"The dog barked at the tree.","hypothesis":"The dog made a noise.","label":0}

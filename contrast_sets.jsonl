@@ -1,0 +1,39 @@
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.","hypothesis":"A single man is next to a camera.","label":2}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.","hypothesis":"A crowd is dancing.","label":1}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.","hypothesis":"A crowd is in front of a camera.","label":1}
+{"premise":"At an indoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.","hypothesis":"A crowd is in front of a camera.","label":1}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.","hypothesis":"A dragon is in front of a camera.","label":0}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume approaches the camera.","hypothesis":"A dragon is in front of a camera.","label":0}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as two people in a yellow Chinese dragon costume confront the camera.","hypothesis":"A crowd is dancing.","label":2}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as two people in a yellow Chinese dragon costume confront the camera.","hypothesis":"A crowd is having fun.","label":2}
+{"premise":"At an outdoor event in an Asian-themed area, a crowd congregates as two people in a yellow Chinese dragon costume confront the camera.","hypothesis":"A girl is crying because she's scared of a dog","label":2}
+{"premise":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork.","hypothesis":"The man was selling the artwork.","label":1}
+{"premise":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork.","hypothesis":"The man was watching tv.","label":2}
+{"premise":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork.","hypothesis":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork","label":0}
+{"premise":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork.","hypothesis":"The man was buying the artwork","label":1}
+{"premise":"A man sits in a chair on the sidewalk in front of a huge display of brightly colored artwork.","hypothesis":"The man was watching artwork tv","label":2}
+{"premise":"A young woman is singing into a microphone.","hypothesis":"The woman is in a band.","label":1}
+{"premise":"A young woman is singing into a microphone.","hypothesis":"The woman playing the trumpet.","label":2}
+{"premise":"A young woman is singing into a microphone.","hypothesis":"The woman is singing.","label":0}
+{"premise":"A young woman is singing into a microphone with her friends.","hypothesis":"The woman is singing karaoke.","label":1}
+{"premise":"A young woman is singing into a microphone.","hypothesis":"The woman eating dinner.","label":2}
+{"premise":"A young woman is singing.","hypothesis":"The woman is in the shower.","label":1}
+{"premise":"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"Two kids in jackets walk to school.","label":2}
+{"premise":"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"Two kids in numbered jerseys wash their hands.","label":0}
+{"premise":"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"Two kids at a ballgame wash their hands.","label":1}
+{"premise":"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"Two kids in raincoats walk to school.","label":2}
+{"premise":"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"The two kids are short.","label":1}
+{"premise":"Two old children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.","hypothesis":"The two kids are short.","label":1}
+{"premise":"Two girls play with origami.","hypothesis":"The girls make paper cranes.","label":1}
+{"premise":"Two girls play with origami.","hypothesis":"The girls hold paper.","label":0}
+{"premise":"Two girls play with arts and crafts.","hypothesis":"The girls make paper cranes","label":1}
+{"premise":"Two girls play with arts and crafts.","hypothesis":"The girls make paper.","label":1}
+{"premise":"Two girls play with arts and crafts.","hypothesis":"The girls eat glue.","label":2}
+{"premise":"Two girls play with origami.","hypothesis":"The girls make Japanese art.","label":0}
+{"premise":"A person rides his bicycle in the sand beside the ocean.","hypothesis":"A person is falling off his bike.","label":2}
+{"premise":"A person rides his bicycle in the sand beside the ocean.","hypothesis":"A person is on a boat.","label":2}
+{"premise":"A person rides his bicycle in the sand beside the ocean.","hypothesis":"A person is on a beach.","label":0}
+{"premise":"A person rides his horse in the sand beside the ocean.","hypothesis":"A person is falling off his bike.","label":2}
+{"premise":"A person mounts his horse in the sand beside the ocean.","hypothesis":"A person riding a bike.","label":2}
+{"premise":"A person mounts his horse in the sand beside the ocean.","hypothesis":"A person riding an animal.","label":0}
+{"premise":"A person rides his bicycle in the sand beside the ocean.","hypothesis":"A person is under the sun.","label":1}
